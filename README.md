@@ -1,3 +1,3 @@
-# hello-world
+#Processing Library
 
-The first application on github. just editing it on a secondary branch before merging it back to the master branch. i think.
+Quick scripts for importing raw FIDs, or importing images in bulk, or them.
